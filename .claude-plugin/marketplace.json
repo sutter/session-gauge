@@ -1,0 +1,6 @@
+{
+  "name": "sutterlity-mods",
+  "description": "Mods personnels pour Claude Code.",
+  "owner": { "name": "Laurent Sutterlity" },
+  "plugins": [{ "name": "session-gauge", "source": "./" }]
+}

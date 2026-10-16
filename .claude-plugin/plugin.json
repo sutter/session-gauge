@@ -1,0 +1,7 @@
+{
+  "name": "session-gauge",
+  "version": "0.1.0",
+  "description": "Une ligne au-dessus du prompt : limite de session 5 h, limite hebdo, contexte et coût, avec repère du temps écoulé.",
+  "author": { "name": "Laurent Sutterlity" },
+  "types": "./types/index.d.ts"
+}
